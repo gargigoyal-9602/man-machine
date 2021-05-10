@@ -1,0 +1,24 @@
+:root {
+  --color-primary: #fecc00;
+  --color-text-primary: black;
+  --color-white: #ffffff;
+  --color-black: black;
+  --color-dark-grey: #8b8f95;
+  --color-grey: #c9c9c9;
+  --color-dark-black: #242724;
+  --color-green: #15aa71  ;
+  --color-orange: #e65e52;
+  --color-blue: #30458c;
+
+
+  --button-primary: gold;
+  --button-text-primary: black;
+
+  --menu-title-text:dimgray;
+  --menu-title-text-active:black;
+
+  --slider-arrow:lightgray;
+}
+#root br {
+  display: none;
+}
